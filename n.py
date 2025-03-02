@@ -1,1 +1,1 @@
-print("tu mama en 4")
+print("Hola mundo")
